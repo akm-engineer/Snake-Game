@@ -17,7 +17,7 @@ Check out the live demo here: [[Snake Game Demo](https://akm-engineer.github.io/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/akm-engineer/snake-game.git
    ```
 
 2. **Open `index.html` in Your Browser:**
@@ -46,7 +46,7 @@ Feel free to customize the game by tweaking the code. Here are a few areas you m
 ## Credits
 
 - Original Snake Game concept by Atari, 1976.
-- Background music by [Artist Name](#) *(Replace with actual artist name)*.
+- Background music by Ashish*.
 
 ## License
 
