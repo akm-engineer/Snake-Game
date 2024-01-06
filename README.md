@@ -11,7 +11,7 @@ Welcome to the Snake Game! This classic arcade game is brought to life using HTM
 
 ## Live Demo
 
-Check out the live demo here: [[Snake Game Demo](https://akm-engineer.github.io/Snake-Game/)](#) *(Replace with your actual live demo link)*
+Check out the live demo here: [[Snake Game Demo](https://akm-engineer.github.io/Snake-Game/)]
 
 ## Getting Started
 
