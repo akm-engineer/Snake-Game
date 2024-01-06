@@ -3,6 +3,8 @@
 
 Welcome to the Snake Game! This classic arcade game is brought to life using HTML, CSS, and JavaScript. Enjoy the nostalgic experience of maneuvering the snake to eat food and grow longer while avoiding collisions with the walls and itself.
 
+![Screenshot 2024-01-07 010532](https://github.com/akm-engineer/Snake-Game/assets/118009781/06370288-867b-425d-a051-9fabf7cfea90)
+
 ## Features
 
 - **Classic Gameplay:** Navigate the snake using arrow keys to eat food and grow.
